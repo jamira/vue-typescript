@@ -29,5 +29,6 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### REFERENCES
-See [How to write vue + typescript](https://blog.logrocket.com/how-to-write-a-vue-js-app-completely-in-typescript/).
-See [Vue property decorator references](https://github.com/kaorun343/vue-property-decorator).
+Read [How to write vue + typescript](https://blog.logrocket.com/how-to-write-a-vue-js-app-completely-in-typescript/).
+```
+Read [Vue property decorator references](https://github.com/kaorun343/vue-property-decorator).
